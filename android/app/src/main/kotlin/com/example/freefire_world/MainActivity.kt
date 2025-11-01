@@ -1,0 +1,5 @@
+package com.example.freefire_world
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
